@@ -17,7 +17,6 @@ def get_season_name(month_number):
     #winter: 12, 1, 2; spring: 3, 4, 5; summer: 6, 7, 8; fall: 9, 10, 11
     #ask the user to enter the number of the month, then output the season based on the month
 def main():
-    
     while True:
         try:
             month = input("Enter a month: ")
