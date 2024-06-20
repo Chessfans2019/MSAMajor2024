@@ -22,6 +22,7 @@ def main():
     print(my_name.endswith("rk")) #returns true
 
     #find a set of characters in a string
+    print(my_name.find("k"))
     print(my_name.find("k, 7")) #prints out -1
 
     #loop through a string
